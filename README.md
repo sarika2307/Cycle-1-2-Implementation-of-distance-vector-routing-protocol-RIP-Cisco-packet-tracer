@@ -1,13 +1,13 @@
 # Cycle-1-2-Implementation-of-distance-vector-routing-protocol-RIP-Cisco-packet-tracer
-# 🧪 EXPT.NO: 2  
-📅 DATE: *(Insert Date)*
+#  EXPT.NO: 2  
+ DATE: 
 
-## 📌 TITLE  
+##  TITLE  
 **Implementation of Distance Vector Routing Protocol (RIP)**
 
 ---
 
-## 🎯 AIM  
+##  AIM  
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
 
 ---
@@ -132,16 +132,16 @@ R 192.168.2.0 [120/1] via 192.168.2.1, FastEthernet0/0
 ---
 <img width="864" height="839" alt="image" src="https://github.com/user-attachments/assets/d9170e29-0377-4661-83a4-7c3df139bfb4" />
 
-## 📶 Ping Test Between PCs
+##  Ping Test Between PCs
 Example: Ping from PC0 to PC3
 C:\> ping 192.168.3.2
 ### Expected result: Successful replies from PC3.
 
 ### Repeat similar tests between other PCs (e.g., PC2 to PC5).
 
-## 📤 OUTPUT
+##  OUTPUT
 ---
 <img width="972" height="487" alt="image" src="https://github.com/user-attachments/assets/dbb66617-e002-49e9-aba7-4051c2831995" />
 
-## 📝 RESULT
+##  RESULT
 Thus, the computers in multiple networks using Distance Vector Routing Protocol are successfully connected and the connectivity between them is verified.
